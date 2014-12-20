@@ -1,0 +1,10 @@
+# Ignore all LaTeX output files
+*.log
+*.pdf
+*.aux
+*.dvi
+
+# Ignore latexmk output files
+*.fls
+*.fdb_latexmk
+*.toc
